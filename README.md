@@ -1,6 +1,6 @@
 # PreDOMNet
 
-The are Two zip files: "BFGS_ANN_node16_hidden20_xavier" and "BFGS_PreDOMNet_node16_hidden20_pt1000_xavier"
+There are Two zip files: "BFGS_ANN_node16_hidden20_xavier" and "BFGS_PreDOMNet_node16_hidden20_pt1000_xavier"
 
 1) "BFGS_ANN_node16_hidden20_xavier" implements the ANN method with BFGS optimizer in 16 nodes and 20 hidden units, training for 15,000 epochs.
 2) "BFGS_ANN_node16_hidden20_xavier" implements the PreDOMNet with BFGS optimizer in 16 nodes and 20 hidden units, training for 15,000 epochs with 1,000 epochs of pretraining.
